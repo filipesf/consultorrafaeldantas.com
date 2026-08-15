@@ -1,0 +1,7 @@
+# www.consultorrafaeldantas.com
+# Site aberto: nada aqui exige bloqueio de rastreamento.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.consultorrafaeldantas.com/sitemap-index.xml
