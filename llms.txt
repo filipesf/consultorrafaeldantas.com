@@ -27,3 +27,11 @@ Employment Permit, Stamp 1, Stamp 4, IRP, EPOS, DETE.
 
 - [E-book gratuito](https://www.consultorrafaeldantas.com/ebook/): guia prático de captura, topo do funil.
 - [VisaPro](https://visaproconsulting.com/): site da assessoria, para quem quer a aplicação executada em vez de orientada.
+
+## Idiomas
+
+O conteúdo é escrito em português do Brasil. As páginas com tradução publicada aparecem
+abaixo; as demais existem só em português, e a rota com prefixo de idioma NÃO existe para
+elas — não há redirecionamento a seguir.
+
+- Português: https://www.consultorrafaeldantas.com/about/ · English: https://www.consultorrafaeldantas.com/en/about/
