@@ -30,8 +30,12 @@ Employment Permit, Stamp 1, Stamp 4, IRP, EPOS, DETE.
 
 ## Idiomas
 
-O conteúdo é escrito em português do Brasil. As páginas com tradução publicada aparecem
-abaixo; as demais existem só em português, e a rota com prefixo de idioma NÃO existe para
-elas — não há redirecionamento a seguir.
+O original é escrito em português do Brasil; o inglês é tradução dele. Abaixo, cada página
+com os endereços das versões que existem. Página sem tradução não tem rota com prefixo de
+idioma — o endereço simplesmente não existe, e não há redirecionamento a seguir.
 
+- Português: https://www.consultorrafaeldantas.com/ · English: https://www.consultorrafaeldantas.com/en/
 - Português: https://www.consultorrafaeldantas.com/about/ · English: https://www.consultorrafaeldantas.com/en/about/
+- Português: https://www.consultorrafaeldantas.com/consulting/ · English: https://www.consultorrafaeldantas.com/en/consulting/
+- Português: https://www.consultorrafaeldantas.com/ebook/ · English: https://www.consultorrafaeldantas.com/en/ebook/
+- Português: https://www.consultorrafaeldantas.com/courses/permissao-de-trabalho-irlanda/ · English: https://www.consultorrafaeldantas.com/en/courses/irish-work-permit/
