@@ -19,9 +19,9 @@ Employment Permit, Stamp 1, Stamp 4, IRP, EPOS, DETE.
 ## Páginas
 
 - [Início](https://www.consultorrafaeldantas.com/): visão geral do hub, vitrine dos serviços e prova social.
-- [Sobre](https://www.consultorrafaeldantas.com/about/): trajetória, credenciais e o mestrado em imigração; a quem o trabalho serve e a quem não serve.
-- [Consultoria](https://www.consultorrafaeldantas.com/consulting/): consulta individual de uma hora — viabilidade, documentos e aplicação. Agendas separadas para quem mora no Brasil e para quem mora na Europa.
-- [Curso: permissão de trabalho na Irlanda](https://www.consultorrafaeldantas.com/courses/permissao-de-trabalho-irlanda/): 10 aulas, 2h35, nível introdutório, sobre Work Permit, Stamp 1, General Permit, Critical Skills e o caminho até o Stamp 4.
+- [Sobre](https://www.consultorrafaeldantas.com/sobre/): trajetória, credenciais e o mestrado em imigração; a quem o trabalho serve e a quem não serve.
+- [Consultoria](https://www.consultorrafaeldantas.com/consultoria/): consulta individual de uma hora — viabilidade, documentos e aplicação. Agendas separadas para quem mora no Brasil e para quem mora na Europa.
+- [Curso: permissão de trabalho na Irlanda](https://www.consultorrafaeldantas.com/cursos/permissao-de-trabalho-irlanda/): 10 aulas, 2h35, nível introdutório, sobre Work Permit, Stamp 1, General Permit, Critical Skills e o caminho até o Stamp 4.
 
 ## Optional
 
@@ -35,7 +35,7 @@ com os endereços das versões que existem. Página sem tradução não tem rota
 idioma — o endereço simplesmente não existe, e não há redirecionamento a seguir.
 
 - Português: https://www.consultorrafaeldantas.com/ · English: https://www.consultorrafaeldantas.com/en/
-- Português: https://www.consultorrafaeldantas.com/about/ · English: https://www.consultorrafaeldantas.com/en/about/
-- Português: https://www.consultorrafaeldantas.com/consulting/ · English: https://www.consultorrafaeldantas.com/en/consulting/
+- Português: https://www.consultorrafaeldantas.com/sobre/ · English: https://www.consultorrafaeldantas.com/en/about/
+- Português: https://www.consultorrafaeldantas.com/consultoria/ · English: https://www.consultorrafaeldantas.com/en/consulting/
 - Português: https://www.consultorrafaeldantas.com/ebook/ · English: https://www.consultorrafaeldantas.com/en/ebook/
-- Português: https://www.consultorrafaeldantas.com/courses/permissao-de-trabalho-irlanda/ · English: https://www.consultorrafaeldantas.com/en/courses/irish-work-permit/
+- Português: https://www.consultorrafaeldantas.com/cursos/permissao-de-trabalho-irlanda/ · English: https://www.consultorrafaeldantas.com/en/courses/irish-work-permit/
